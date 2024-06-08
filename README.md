@@ -1,4 +1,5 @@
-$$\mmlToken{ms}[fontfamily="
+```math
+\mmlToken{ms}[fontfamily="
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
@@ -7,4 +8,5 @@ position: fixed;
 inset:0;
 opacity: 1.0;
 background: url('https://github.com/MathisHammel/MathisHammel/releases/download/shrek/shrek.gif');
-"]{}$$
+"]{}
+```
